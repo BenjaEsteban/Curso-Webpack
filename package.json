@@ -1,0 +1,24 @@
+{
+  "name": "curso-webpack",
+  "version": "1.0.0",
+  "description": "Proyecto referente al curso de webpack de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaEsteban/Curso-Webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaEsteban/Curso-Webpack/issues"
+  },
+  "homepage": "https://github.com/BenjaEsteban/Curso-Webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
