@@ -131,6 +131,7 @@ dist
 
 # MacOS
 .DS_Store
+.vscode/
 
 # Package.json
 package-lock.json
